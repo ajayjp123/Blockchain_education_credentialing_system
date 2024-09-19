@@ -1,0 +1,1 @@
+This decentralized application(Dapp) allows institutions to issue and validate credentials related to education like degrees andcertificates. The application creates an immutable, transparent and secure record of academic achievements through the use of blockchain technology.
